@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/italo/Documentos/assembly'
+make: Leaving directory '/home/italo/Documentos/assembly'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
